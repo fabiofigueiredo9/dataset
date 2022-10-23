@@ -2,7 +2,7 @@
 
 ### Fábio Figueiredo
 
-Classificação de Imagens|50|2|
+Classificação de Imagens|50|3|
 |--|--|--|
 
 ### Com base nos produtos vendidos pela empresa VOLTZ MOTORS DO BRASIL S.A, iremos classificar seus 3 produtos principais.
